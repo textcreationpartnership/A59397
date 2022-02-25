@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon design'd for the funeral of Ed. Wiseman Esq late of East-Lockinge in the county of Berks. Who was buried at Stevinton near Abingdon November the ninth, 1694. By Will. Sevill, Master of Arts, and Fellow of C.C.C. Oxford. Published at the request of many gentlemen of Berks.</title>
+            <author>Sevill, William, b. 1667 or 8.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59397</idno>
+            <idno type="STC">Wing S2818A</idno>
+            <idno type="STC">ESTC R221098</idno>
+            <idno type="EEBO-CITATION">99832467</idno>
+            <idno type="PROQUEST">99832467</idno>
+            <idno type="VID">36940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36940)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2059:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon design'd for the funeral of Ed. Wiseman Esq late of East-Lockinge in the county of Berks. Who was buried at Stevinton near Abingdon November the ninth, 1694. By Will. Sevill, Master of Arts, and Fellow of C.C.C. Oxford. Published at the request of many gentlemen of Berks.</title>
+                  <author>Sevill, William, b. 1667 or 8.</author>
+               </titleStmt>
+               <extent>[6], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wilmot, and John Howell booksellers in Oxford,</publisher>
+                  <pubPlace>[Oxford?] :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by the cataloguer.</note>
+                  <note>Imperfect; tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wiseman, Edmond, 1652 or 3-1664 --  Early works to 1800.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36940:1"/>
+            <p>A SERMON Deſign'd for the FUNERAL of Ed. Wiſeman Eſq. Late of <hi>Eaſt-Lockinge</hi> in the County of BERKS.</p>
+            <p>Who was Buried at <hi>Stevinton</hi> near <hi>Abingdon November</hi> the Ninth, 1694.</p>
+            <p>
+               <hi>By</hi> WILL. SEVILL, <hi>Maſter of Arts,</hi> And <hi>Fellow of</hi> C. C. C. <hi>OXFORD.</hi>
+            </p>
+            <p>Publiſhed at the Requeſt of many Gentlemen of BERKS.</p>
+            <p>Printed for <hi>John Wilmot,</hi> and <hi>John Howell</hi> Bookſellers in <hi>OXFORD,</hi> 1694.</p>
+            <pb facs="tcp:36940:2"/>
+            <pb facs="tcp:36940:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36940:3"/>
+            <pb facs="tcp:36940:3"/>
+            <head>TO THE <hi>DESERVEDLY HONOURED</hi> M<hi rend="sup">rs</hi> Mary Wiſeman, RELICT of Edm. Wiſeman Eſq. <hi>DECEASED.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THO' I am conſcious to my ſelf, that this <hi>Diſcourſe</hi> appears in publick with far greater Diſadvantages, than many other do; a great part of it having been haſtily wrote in a tumultuous hurry of Thoughts, and ſome diſor<g ref="char:EOLhyphen"/>der of Paſſion, upon the Death of my much Eſteemed <hi>FRIEND:</hi> Yet in honour to His Memory, and in complyance with the Requeſts of many of thoſe worthy <hi>Gentlemen</hi> who attended His Funeral, and more eſpecially for Your Satisfaction; I have ſo far prevail'd upon my ſelf, as to diſ-regard the Cenſures that may be paſs'd upon it. If it ſhould be thought by ſome, not worthy the Reading of many,
+<pb facs="tcp:36940:4"/>whoſe hands it may now fall into; I ſhall leave Thoſe, whom I much reſpect, to make their <hi>Pro<g ref="char:EOLhyphen"/>miſed Apology:</hi> That the <hi>Will of the Dead</hi> could not any way be better fulfill'd, than by <hi>Publiſhing that,</hi> which by <hi>Monſieur De l'Angle</hi> was deny'd to be preach'd.</p>
+            <p>A ſort of <hi>French</hi> Civility, which I was, till now, as little Acquainted with, as I deſire to be with their Government, or Religion. So far as I can learn, 'twas never practis'd amongst <hi>Engliſhmen;</hi> and I am ſure in the mildeſt Conſtruction that can be made of it, it muſt be term'd a moſt Unſeaſona<g ref="char:EOLhyphen"/>ble, Ungrateful, and Indiſcreet piece of Rudeneſs. Moſt Unſeaſonable certainly at His Funeral, who always Purſued the Things that <hi>made for Peace</hi> and Love, for Meekneſs and Charity, for Hoſpi<g ref="char:EOLhyphen"/>tality and good Neighbourhood: Moſt Ungrateful to Him, who whilſt he was living, had Obliged the <hi>Gentleman</hi> by ſeveral eminent Acts of ſpecial Favours and Kindneſſes: And moſt Indiſcreet, in reſpect of the poor <hi>French-Proteſtants,</hi> whoſe ca<g ref="char:EOLhyphen"/>lamitous Condition hath been, by the compaſſionate Care of <hi>Their MAJESTIES,</hi> frequently and lately Recommended to the Charity of the whole Nation. So that, if <hi>Monſieur De l'Angle</hi> had no Regard to the <hi>Gentlemen</hi> of <hi>Berks,</hi> yet Pity to his own Countrymen might have moved him, at that time, to abate his Reſentment of thoſe words, that an <hi>Honourable Member of Parliament,</hi> and ſome
+<pb facs="tcp:36940:4"/>Others upon juſt Provocation had given him, when he refuſed to Comply with their Requeſt, under Pretence that he had not been treated as a <hi>Gentle<g ref="char:EOLhyphen"/>man;</hi> becauſe no particular Meſſenger had been ſent unto him. In the Diſpute I know he told them, <hi>That I of All Men ſhould not have his Pulpit; but for what Reaſon, he was not bound to ſatisfy any Man, nor would he declare.</hi> I remember very well, when he ſtood for his Degrees, I was very Induſtrious to Oppoſe his Letter of Petition, becauſe I thought his Requeſt very Unreaſonable, and Him<g ref="char:EOLhyphen"/>ſelf Unqualify'd for them. If this were the Reaſon, (as Some gueſs'd it to be) and he were ſordidly in<g ref="char:EOLhyphen"/>clined to ſeek Revenge; He might have took ſome other Opportunity for it, which would have ren<g ref="char:EOLhyphen"/>der'd him leſs <hi>Ridiculous</hi> and <hi>Odious</hi> to Mankind, than this his late Behaviour has done. If that were not the Reaſon, but (as Others rather Con<g ref="char:EOLhyphen"/>jectur'd) he were Biaſs'd by a Party to eſpouſe a Quarrel: They may know that it was One of the worſt Hands that was ever employ'd to Defend their Honourable Cauſe: and I believe he Himſelf will be Convinc'd, (if he be not already) that he ought to be better Rewarded, than I have been for more Civil Services. However Many beſides my ſelf have learnt that there are <hi>Some,</hi> Who, not<g ref="char:EOLhyphen"/>withſtanding all their Boaſts of <hi>Gentility,</hi> have <hi>little Reputation</hi> to Loſe, and <hi>leſs Modeſty</hi> to be Tender of.</p>
+            <pb facs="tcp:36940:5"/>
+            <p>I humbly beg Your Pardon, <hi>GOOD MADAM,</hi> for making mention of this Matter, which, I fear, doth revive and encreaſe Your Sorrow: But it could not be conceal'd without manifeſt Injuſtice to thoſe <hi>Many Worthy Gentlemen,</hi> who were ſo ex<g ref="char:EOLhyphen"/>treamly affronted, whilſt they were paying their laſt Reſpects to Your <hi>Late Moſt Affectionate HUS<g ref="char:EOLhyphen"/>BAND;</hi> as well as to My Self, who could not without <hi>Great Indecency,</hi> decline the <hi>Publication</hi> of this <hi>Sermon,</hi> and the <hi>Occaſion</hi> of its Coming forth. Such as it is, I moſt humbly preſent it to <hi>Your Peruſal;</hi> beſeeching <hi>ALMIGHTY GOD, Who comforts thoſe that are caſt down,</hi> to ſupport You under this ſad Stroke of His <hi>Providence,</hi> ſo to Bleſs You, as to make <hi>All things work together for Your Good,</hi> and to <hi>fill You with all Joy and Peace in Believing;</hi> till at laſt You are received into the number of the <hi>Bleſſed,</hi> and made Partaker, with them, of <hi>Pleaſures for evermore.</hi> Which is, and ſhall be the conſtant <hi>Prayer</hi> of,</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>Your Moſt Faithful, Moſt Oblig'd, and Moſt Reſpectful Servant, WILL. SEVILL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:36940:5"/>
+            <head>A Sermon, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REV. Chap. XIV. Ver. XIII.</hi>
+                  </bibl>
+                  <p>I heard a Voice from Heaven, Saying unto Me, Write; Bleſſed are the Dead, that dye in the Lord, from henceforth: Yea, ſaith the Spirit; that they may Reſt from their Labours, and their Works follow them.</p>
+               </q>
+            </epigraph>
+            <p>WERE we acted by nothing but the meer Impulſe of our lapſed Nature, Death, in its beſt Re<g ref="char:EOLhyphen"/>preſentation, would be always thought <hi>the King of Terrours:</hi> for tho' the Embraces of our Mother Earth within her, will certainly free us from all the Labours of our Life upon her, ſo as to make <hi>the weary</hi> in her Boſome to <hi>lye at Reſt;</hi> yet <hi>to Duſt thou ſhalt return,</hi> in its fineſt Colours, would ſtill be lookt upon, as an ill-favour'd, and heavy Curſe to us, whoſe fleſhly Conſtitu<g ref="char:EOLhyphen"/>tions
+<pb n="2" facs="tcp:36940:6"/>put us always upon Deſires after a longer Continuance here; and are therefore ſtill apt to be much affrighted when they think, that <hi>Corruption</hi> is their <hi>Father,</hi>
+               <note place="margin">Ch. 17. v. 14.</note> (as <hi>Job</hi> ſpeaks) and that the <hi>Worm</hi> is their <hi>Mother,</hi> and their <hi>Siſter.</hi>
+            </p>
+            <p>Nay, what is more, tho' by the Innocency of our Lives, we enjoy <hi>the peaceable Fruit of Righteouſneſs at the laſt;</hi> ſo as upon our Death-beds we can ſay, with good <hi>Hezekiah, Remember,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 38. ver. 3.</note> 
+               <hi>O Lord, how I have walked be<g ref="char:EOLhyphen"/>fore thee in Truth, and with a perfect Heart, and have done that which is Good in thy ſight;</hi> yet when this Summons of Death comes, <hi>Set thy Houſe in order;</hi>
+               <note place="margin">Ver. 1.</note> 
+               <hi>for thou ſhalt Dye and not Live;</hi> with him we many times <hi>turn toward the Wall,</hi>
+               <note place="margin">Ver. 2, 3.</note> 
+               <hi>and weep ſore;</hi> and with good <hi>David, Water our Couch with our Tears;</hi>
+               <note place="margin">Pſ. <hi>39.</hi>
+               </note> when we imagine we ſhall <hi>go hence, and be no more ſeen;</hi> and therefore pray to be <hi>ſpared a little, that</hi> we <hi>may recover</hi> our <hi>Strength.</hi>
+            </p>
+            <p>And thus the Apprehenſions of our Ap<g ref="char:EOLhyphen"/>proaching Departure, being a Subject always <hi>terrible</hi> to <hi>all</hi> Men in their <hi>Natural,</hi> and for the moſt part a <hi>Sorrowful</hi> one to <hi>many,</hi> in a <hi>Righteous</hi> State; As a Voice of old bade the Prophet <hi>Iſaiah</hi> to <hi>cry, All Fleſh is Graſs,
+<pb n="3" facs="tcp:36940:6"/>and all the Goodlineſs thereof, as the Flower of the Field;</hi> thereby to denote the Impor<g ref="char:EOLhyphen"/>tance of the thing; that a frequent Premedi<g ref="char:EOLhyphen"/>tation of it is a part of the greateſt Wiſdom, and the beſt means to conquer the Suggeſti<g ref="char:EOLhyphen"/>ons of Nature, and to ſtir us up to the per<g ref="char:EOLhyphen"/>formance of Good Works, <hi>whilſt it is call'd to day:</hi> So for the ſame ends, and more eſpecially to comfort the Souls of the Righ<g ref="char:EOLhyphen"/>teous; A like Voice to that, was heard in theſe latter times from Heaven, to bid St. <hi>John,</hi> in the words now handled, not to <hi>cry,</hi> but to <hi>write; Cry</hi> not to the Inhabitants of the Earth at preſent; but <hi>write,</hi> Record it to all Ages of the World: and what is thus to be written, or recorded by virtue of this Charge from on high? <hi>Bleſſed are the Dead that dye in the Lord, from henceforth: Yea, ſaith the Spirit; for they reſt from their Labours, and their Works follow them.</hi>
+            </p>
+            <p>
+               <hi>Bleſſed are the Dead that dye in the Lord.</hi> By which Perſons ſo pronounced Bleſſed, I know that<note n="*" place="bottom">Qui Chriſti cauſâ mortis pericula adeunt. <hi>Saith</hi> Grotius <hi>upon the Place, and Tranſlates</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Qui propter Dominum vel Domini cauſâ moriuntur. <hi>As alſo</hi> Beza, Junius, <hi>and Others.</hi>
+               </note> ſome Interpreters have under<g ref="char:EOLhyphen"/>ſtood here, in a proper Sence, only Thoſe,
+<pb n="4" facs="tcp:36940:7"/>that have Sacrificed their Lives to ſeal the Truth of their Religion with their Blood; or, Thoſe that have laid them down for Chriſt's Name-ſake, or their Faith in him: and that, by reaſon of ſome preceding part of this Chapter, which ſpeaks of a Viſion, wherein a Third Angel was ſeen, and heard <hi>to ſay with a loud Voice,</hi>
+               <note place="margin">Ver. 9, 10.</note> 
+               <hi>If any Man Worſhip the Beaſt, and his Image, the ſame ſhall drink of the Wine of the Wrath of God;</hi> and after<g ref="char:EOLhyphen"/>wards, <hi>Here is the Patience of the Saints:</hi>
+               <note place="margin">Ver. 12.</note> Intimating, as they would have it, that the ſole intent of the Spirit, in theſe words, was to chear up the Hearts of the Primitive Pro<g ref="char:EOLhyphen"/>feſſors of Chriſtianity, ſo as to make them to bid Defiance to thoſe Perſecutions, which the Rage of the prejudiced World, and the Madneſs of the Idolatrous Heathen were then bringing in upon them; and in order to that to tell them, that the Perſons ſo Dy<g ref="char:EOLhyphen"/>ing <hi>in the Lord,</hi> were thoſe that are now pro<g ref="char:EOLhyphen"/>nounced Bleſſed.</p>
+            <p>Yea, Bleſſed, for ever Bleſſed, if GOD be true, are ſuch; but that theſe are not the only Perſons here meant, is evident from the Character given of them, in the words im<g ref="char:EOLhyphen"/>mediately before my Text; <hi>Here are they that keep the Commandments of God, and the
+<pb n="5" facs="tcp:36940:7"/>Faith of Jeſus;</hi> which no ſooner was pro<g ref="char:EOLhyphen"/>claim'd by the Angel, but the Voice is dire<g ref="char:EOLhyphen"/>cted to St. <hi>John, Saying, write, Bleſſed are the dead, that dye in the Lord;</hi> that is, ac<g ref="char:EOLhyphen"/>cording to the Connexion, thoſe that dye in the LORD, as having kept the Command<g ref="char:EOLhyphen"/>ments of GOD, and the Faith of JESUS: ſo that, as long as the ſence of theſe words may properly be extended farther than <hi>Mar<g ref="char:EOLhyphen"/>tyrs,</hi>
+               <note n="*" place="bottom">Sicut in Chriſto eſſe dicuntur, que ei verâ fide conſtanter adhae<g ref="char:EOLhyphen"/>rent; &amp; in Chriſto vivere, qui vivunt ad voluntatem Chriſti; ita in Domino mori dicuntur, qui in vera fide, &amp; invocatione Domini, per fidem Chriſto inſiti, ut vera membra corporis ejus moriuntur. <hi>Par. Cluv. Gat.</hi>
+               </note> to all true Diſciples of our Bleſſed <hi>Sa<g ref="char:EOLhyphen"/>viour;</hi> who, by whatever Death they fall, have ſincerely endeavour'd to keep the Com<g ref="char:EOLhyphen"/>mandments of GOD; upon their Failure been truly penitent; and by a lively Faith, in the Merits and Satisfaction of our <hi>Sa<g ref="char:EOLhyphen"/>viour</hi>'s Sufferings, commended themſelves to His Mercy: They may pertinently, and profitably be diſcourſed upon, at this Solemni<g ref="char:EOLhyphen"/>ty, whilſt we are paying our laſt <hi>Office</hi> to this our late <hi>Dearly-beloved, and much-eſteemed</hi> BROTHER; Whoſe ſincere and hearty Re<g ref="char:EOLhyphen"/>pentance, Whoſe conſtant Piety, and fervent Devotion, and Whoſe chearful Reſignation of Himſelf to GOD's Diſpoſal (of all which I
+<pb n="6" facs="tcp:36940:8"/>was a daily Witneſs) gives me confidence to ſay, In every part He fulfilled the Character.</p>
+            <p>Be pleas'd then in them to conſider theſe Particulars.</p>
+            <list>
+               <item>Firſt, A Declaration of the Bleſſedneſs, or State of Happineſs of All thoſe <hi>that dye in the Lord. Bleſſed are the dead that dye in the Lord.</hi>
+               </item>
+               <item>Secondly, A full Aſſurance or Confirma<g ref="char:EOLhyphen"/>tion of it: <hi>Yea, ſaith the Spirit.</hi>
+               </item>
+               <item>And laſtly, A Twofold Reaſon, containing in it the Nature of that their Bleſſedneſs, or State of Happineſs: <hi>That they may,</hi> or ra<g ref="char:EOLhyphen"/>ther,<note n="†" place="bottom">So we find <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, tranſlated in our <hi>Liturgy.</hi>
+                  </note> 
+                  <hi>for they rest from their labours, and their works follow them.</hi>
+               </item>
+            </list>
+            <p>But that my Diſcourſe upon theſe Heads may be the more Clear, and Regular; I ſhall invert their Order, and begin with the laſt; <hi>(viz.)</hi> The Twofold Reaſon, containing in it the Nature of their Bleſſedneſs: And when we have ſeen, in ſome meaſure, what their State of Happineſs is, I ſhall ſpeak ſomething very briefly, to the two firſt, <hi>(viz.)</hi> The De<g ref="char:EOLhyphen"/>claration, and Confirmation of it both toge<g ref="char:EOLhyphen"/>ther; that thereby we may be ſatisfy'd of the
+<pb n="7" facs="tcp:36940:8"/>full Aſſurance we have, that ſuch ſhall be their Portion, <hi>that dye in the Lord.</hi>
+            </p>
+            <p>And that what ſhall be deliver'd, may have ſuch an Impreſſion upon us, as to move us earneſtly to endeavour to be found at the laſt of their number; I ſhall add ſomething as an Application ſuitable to the preſent Occaſion, and ſo conclude.</p>
+            <p>I begin then with the Nature of that Bleſſedneſs, that is ſaid to be the Portion of thoſe <hi>that dye in the Lord;</hi> contain'd in this, that <hi>They reſt from their labours, and their works follow them.</hi>
+            </p>
+            <p>Which evidently manifeſts this unto us, that the Nature of their Happineſs conſiſts,
+<list>
+                  <item>Firſt, <hi>Negatively,</hi> in a Ceſſation, or Free<g ref="char:EOLhyphen"/>dom from all, or their not being tormented with any worldly labours, and troubles; and,</item>
+                  <item>Secondly, <hi>Poſitively,</hi> in the Enjoyment of inconceivably great Rewards, conſequent up<g ref="char:EOLhyphen"/>on their good Works.</item>
+                  <item>And firſt, <hi>Bleſſed are the dead that dye in the Lord,</hi> inaſmuch as they happily enjoy a Ceſſa<g ref="char:EOLhyphen"/>tion, or freedom from all their worldly labors, and troubles: <hi>They reſt from their labours.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And, indeed, ſo many are the laborious miſe<g ref="char:EOLhyphen"/>ries of this vain world, that by reaſon of them, the <hi>Thracians</hi> of old wept at the Birth of
+<pb n="8" facs="tcp:36940:9"/>thoſe Children, who were ready to be brought under their Burden; and celebrated the Fu<g ref="char:EOLhyphen"/>nerals of thoſe, who by Death were freed from them with Muſical Entertainments: and we <hi>Chriſtians,</hi> according to the Rules of our <hi>Church,</hi> do now-a-days, with hearty Thankſ<g ref="char:EOLhyphen"/>givings to our GOD, <hi>for that it hath pleaſed Him to deliver them from the miſeries of this ſinful world:</hi> which is not a leſs Rational than a Religious Cuſtom. For how ſadly has Sin defaced our Souls, and made our Under<g ref="char:EOLhyphen"/>ſtandings become ſo ſhort-ſighted, that we cannot penetrate into the true Nature of many things: nay, nor ſcarce get a thorow Apprehenſion of ſome few neceſſary ones, without <hi>much ſtudy;</hi>
+               <note place="margin">
+                  <hi>Eccleſ.</hi> 12.12.</note> 
+               <hi>which</hi> (as the <hi>Wiſeman</hi> ſpeaks) <hi>is a wearineſs of the Fleſh! The cor<g ref="char:EOLhyphen"/>ruptible Body preſſeth down the Soul,</hi>
+               <note place="margin">
+                  <hi>Wiſd.</hi> 9.15, 16.</note> —<hi>and with labour do we find out the things that are before us.</hi> How wretchedly by the ſame <hi>Original ſin</hi> are our Wills corrupted, that when we ſeem to our ſelves moſt ſecurely to <hi>ſland,</hi> we are oblig'd of neceſſity continually to labour, leſt we <hi>fall!</hi> foraſmuch as we al<g ref="char:EOLhyphen"/>ways find (in the <hi>Apoſtle</hi>'s Language) <hi>a law in our members,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 7.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>warring againſt the law of our minds, and bringing us into captivity to the law of ſin.</hi> How miſerably are our Bodies
+<pb n="9" facs="tcp:36940:9"/>depriv'd of their primitive welfare, and how jarring and unſociable are all their parts! ſo full are they of inward aches, and diſturbing pains, that we are frequently compell'd to labour to preſerve them in a Vital Amity, to keep them and our Souls from a diſſolu<g ref="char:EOLhyphen"/>tion: foraſmuch as <hi>in the midſt of life we are in death.</hi> And beſides all this, How diffi<g ref="char:EOLhyphen"/>cultly doth the Earth bring forth her Fruits, and with what labour do living Men enjoy them! truly with ſo great pains, that, according to the curſe of GOD upon it, we are forced to <hi>Eat our bread in the ſweat of our brows.</hi> And how many are our other outward Croſſes, our ſuprizing Loſſes, and thereby our great Diſappointments! Often<g ref="char:EOLhyphen"/>times truly ſo many, that <hi>in patience to poſ<g ref="char:EOLhyphen"/>ſeſs our Souls,</hi> we find a very laborious task. And all theſe in their innumerable particu<g ref="char:EOLhyphen"/>lars, are ſo inſeparably annex'd to the Life that now is, that<note n="*" place="bottom">Omnia ad quae gemimus—tributa vitae ſunt— in longa vita ſunt, quomodo in longa via pulvis, &amp; lutum, &amp; pluvia. <hi>Ep. 96.</hi>
+               </note> 
+               <hi>Seneca</hi> an <hi>Heathen,</hi> as well the Spirit of GOD, has compar'd our courſe upon Earth, to a Journey upon a Road; in which the Traveller may as ſoon expect not to meet with rain, nor dirt, nor wind, nor duſt; as we in our Life may not to meet
+<pb n="10" facs="tcp:36940:10"/>with Labours, nor Croſſes, nor Troubles. And if an <hi>Heathen</hi> could obſerve this of him<g ref="char:EOLhyphen"/>ſelf as a Man, and if in the ſame ſence our ſad Experience often-times confirms this to our ſelves, that <hi>We are born to ſorrow, as the ſparks fly upward;</hi> that is, by a Natural neceſſity; to how far greater meaſure are our Labours augmented, who profeſs our ſelves the <hi>Souldiers</hi> of CHRIST our <hi>Cap<g ref="char:EOLhyphen"/>tain,</hi> as well as the <hi>Servants</hi> of Him our <hi>Ma<g ref="char:EOLhyphen"/>ſter!</hi> who in our Baptiſmal Vow, have ſworn by the Labours of a continual warfare, manfully to fight againſt the aſſaults of our Luſts, and the Wiles and Temptations of Devils: who, in the midſt of the Commotions of a mad World, are oblig'd to ſtrive for Peace with all Men, to bear Perſecutions when laid upon us for Righteouſneſs-ſake, and the like.</p>
+            <p>Whereas now the Dead <hi>that dye in the Lord,</hi> are not perplex'd with any of theſe, or the like troubleſome tasks; but are freed from all their hardſhips, their tireſome jour<g ref="char:EOLhyphen"/>neyings, their tedious warfare, their fret<g ref="char:EOLhyphen"/>ting cares, their vexatious croſſes, their grie<g ref="char:EOLhyphen"/>vous perſecutions; and in a word, all other their worldly afflictions: which is in one Expreſſion now ſpoken to, <hi>They rest from their labours.</hi> Yea, <hi>they reſt from their labours.</hi>
+            </p>
+            <pb n="11" facs="tcp:36940:10"/>
+            <p>For certainly there is no ſtriving after Knowledge, no Labour under Ignorance to them, who are made partakers of GODS Wiſdom, and Glory in Heaven. No labour to them of preſerving themſelves in their ſtate of Holineſs, who, like thoſe Angels that never ſinned, are confirm'd in their ſtation, and put out of a poſſibility of falling. No pains, no aches of Body to them, whoſe Bo<g ref="char:EOLhyphen"/>dies lye ſenceleſs in the duſt, until the Re<g ref="char:EOLhyphen"/>ſurrection, and at, and after that time are transform'd into, and remain glorify'd ones. No difficulty to them of ſupporting them<g ref="char:EOLhyphen"/>ſelves with proviſions, who perpetually are feaſting upon the <hi>Bread of Heaven,</hi> being actual poſſeſſours of ineffable <hi>pleaſures at Gods right hand for evermore.</hi> No ſurprizing loſſes, no vexing diſappointments to them in that ſtate, which GOD has made as unalter<g ref="char:EOLhyphen"/>able as Himelf is, who is <hi>the ſame yeſterday, today, and for ever, and changeth not.</hi> No labour againſt temptations to them, who lye not within the reach of any enemies, and whom neither luſts, nor Devils can aſſault. No ſtrivings after peace to them, whoſe place hath known no wars, nor commotions, ſince the Devil and his Angels thence were beaten. And they of neceſſity muſt be freed
+<pb n="12" facs="tcp:36940:11"/>from perſecutions; ſince they have <hi>fought their Good Fight,</hi> obtain'd their Victory by Faith, and are made Members of a <hi>Church</hi> eternally triumphant.</p>
+            <p>And this is the Firſt Part of that Bleſſed<g ref="char:EOLhyphen"/>neſs, <hi>The Dead</hi> enjoy, who <hi>dye in the Lord they reſt from their labours.</hi>
+            </p>
+            <p>But alas! a meer reſting from their la<g ref="char:EOLhyphen"/>bours, falls infinitely ſhort of half their Hap<g ref="char:EOLhyphen"/>pineſs; as will be clearly manifeſted, now <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come to treat of the Second poſitive part of their ſtate, which was ſaid to conſiſt in the enjoyment of inconceivably great Rewards conſequent upon their good works; contain'd in theſe words, <hi>Their works follow them.</hi>
+            </p>
+            <p>GOD'S gracious Rewards of their good works accompany them: Not that we are to think, that theſe their good works were the Meritorious cauſe of their enjoyment of them; ſo as by reaſon of them we may (with the <hi>Romaniſts</hi>) affirm that they deſerv'd them or in ſtrict juſtice might have challeng'd them, as their due from GOD: but only that they were the neceſſary means appointed by GOD, for the obtainment of the Bleſſing, a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> being thoſe without which they never would have had their joys. Joys, that no Man upon Earth can pretend to ſet forth in their pro<g ref="char:EOLhyphen"/>per
+<pb n="13" facs="tcp:36940:11"/>colours; foraſmuch as whatever plea<g ref="char:EOLhyphen"/>ſures there ariſe to our Rational Natures made perfect, from the Viſion, and Fruition of that All-glorious Spirit, who is the in<g ref="char:EOLhyphen"/>comprehenſible Fountain of all perfection, and happineſs; foraſmuch as whatever plea<g ref="char:EOLhyphen"/>ſures there ariſe from the unſpeakable har<g ref="char:EOLhyphen"/>mony of Celeſtial <hi>Hallelujahs;</hi> from the ſo<g ref="char:EOLhyphen"/>ciety, and love of holy Angels, and the Spi<g ref="char:EOLhyphen"/>rits of Juſt Men made like unto, and as pure as them: and laſtly foraſmuch as whatever advantages there ariſe to theſe our <hi>Corrup<g ref="char:EOLhyphen"/>tible, diſhonourable, weak,</hi> and <hi>Natural</hi> Bo<g ref="char:EOLhyphen"/>dies, by being raiſed, and glorify'd in <hi>Incor<g ref="char:EOLhyphen"/>ruption,</hi> in <hi>Honour,</hi> in <hi>Power,</hi> and <hi>Spiritua<g ref="char:EOLhyphen"/>lity,</hi> are pleaſures, and advantages truly, that the Mind of Man cannot apprehend any ſo agreeable to the dignity of our Conſtitu<g ref="char:EOLhyphen"/>tions; and as touching the excellency of them, what they are in themſelves; the higheſt ſtrains of Humane Oratory can ne<g ref="char:EOLhyphen"/>ver repreſent, nor our loftieſt imaginations mount unto.</p>
+            <p>But tho' <hi>Eye hath not ſeen, nor Ear heard, nor Heart conceived the things that God hath prepared for thoſe that love him,</hi> for thoſe that by keeping <hi>his Commandments, and the Faith of Jeſus dye in Him;</hi> yet as we
+<pb n="14" facs="tcp:36940:12"/>can look upon them (<hi>as thro' a Glaſs darkly</hi>) at preſent, thus much we know in part, that their Bodies after the Reſurrection will re<g ref="char:EOLhyphen"/>main <hi>as the brightneſs of the Firmament,</hi>
+               <note place="margin">Ch. 12. ver. 3.</note> (as the Prophet <hi>Daniel</hi> aſſures us) <hi>and ſhine as the Stars for ever and ever.</hi> And, as touching their Souls; <hi>Before</hi> that glorious manifeſtation of God's Power, and Promiſes in raiſing their corrupted Bodies from the Duſt; we are aſſured they ſhall be with <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> in Comfort, and with <hi>Chriſt</hi> in Paradiſe; and <hi>After,</hi> their <hi>Minds</hi> will be fill'd with as much <hi>Light,</hi> and their <hi>Wills</hi> with as much <hi>Love,</hi> as ever they are capable of; their <hi>Faith</hi> being heighten'd into an Eternal <hi>Viſi<g ref="char:EOLhyphen"/>on</hi> of God, and thereby their <hi>Hopes</hi> and <hi>De<g ref="char:EOLhyphen"/>ſires</hi> ſwallowed up in the <hi>fruition</hi> of immu<g ref="char:EOLhyphen"/>table Bliſs.</p>
+            <p>And being aſſured of this, we need not trouble our ſelves with thoſe vain Diſputes of ſome Ages before us, concerning the ſepa<g ref="char:EOLhyphen"/>rate State of Departed Souls; nor with the Idle Notions of thoſe various <hi>Limbus's,</hi> whereinto ſome have fancied them to have been received: but having theſe Revelations it is matter of infinite Importance to us all, to uſe our utmoſt Endeavours after Purity, and Holineſs, and a ſtedfaſt and lively Faith
+<pb n="15" facs="tcp:36940:12"/>in Chriſt our Saviour; that thereby we may be found among thoſe that <hi>Dye in the Lord,</hi> who by the Voice from Heaven are declared <hi>Bleſſed from henceforth,</hi> or from the Mo<g ref="char:EOLhyphen"/>ment of their Departure. So<note n="*" place="margin">See <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> ſeveral good Expoſitors underſtand thoſe words, and our Church confirms the Interpretation, when She acknowledgeth to Almighty God, that <hi>with him do live the Spirits of them that de<g ref="char:EOLhyphen"/>part hence in the Lord; and with him the Souls of the Faithful, after they are delivered from the burthen of the Fleſh, are in Joy and Felicity.</hi>
+            </p>
+            <p>For which Diſcovery of theſe Spiritual Joys, ſhould I now offer to ſpeak the due Praiſes of our Chriſtian Religion, I know not when I ſhould end the Panegyrick, or finiſh the Task; as being thoſe that eminent<g ref="char:EOLhyphen"/>ly diſplay its Excellency above all other In<g ref="char:EOLhyphen"/>ſtitutions whatever. The Gentiles, by the Light of Nature, could never reach them: The Jews of Old never had them in their written Law, unleſs in Types;<note place="margin">See <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and the Turks at preſent expect the quite contrary in their Senſual Paradiſe. And indeed, God intended theſe expreſs Revelations of the Life to come, together with ſome Deſcriptions of the true Nature of its Bliſs; for the Buſi<g ref="char:EOLhyphen"/>neſs,
+<pb n="16" facs="tcp:36940:13"/>and the Glory of the Goſpel, by which, and which alone, <hi>Life</hi> Eternal in a Bleſſed <hi>Im<g ref="char:EOLhyphen"/>mortality is brought to light:</hi> Yea, brought to Light for this very purpoſe, that all ſuch as endeavour to <hi>Dye in the Lord,</hi> might in <hi>their Labours</hi> be encouraged with the Hopes of the Enjoyment of ſo great a <hi>recompence of Reward:</hi> For tho' the intrinſick Beauty of Holineſs be very great, and excellent; yet, thro' the Degeneracy of Mankind, that pro<g ref="char:EOLhyphen"/>ving not a ſufficient Allurement to the Exer<g ref="char:EOLhyphen"/>ciſe thereof, God in the Scriptures hath an<g ref="char:EOLhyphen"/>nexed his Promiſes to the Commands he hath given; and confirm'd thoſe Promiſes by his Oath: that <hi>by two immutable things</hi> (a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Author to the <hi>Hebrews</hi> ſpeaks) <hi>in which it is impoſſible for God to lye,</hi>
+               <note place="margin">Ch. 6. ver. 18.</note> 
+               <hi>we might have a ſtrong Conſolation to lay hold upon the hope that is ſet before us.</hi> And in like manne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> here, for our Conſolation, He not only de<g ref="char:EOLhyphen"/>clares thoſe Perſons <hi>Bleſſed that dye in Him</hi> but Emphatically confirms it by his <hi>Yea,</hi> i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his own Name, and <hi>by himſelf;</hi> and <hi>by greater</hi> it could not be done.</p>
+            <p>Which brings me to ſpeak a word or tw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Declaration and Confirmation of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> both together, that thereby I may ſatisf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you of the full Aſſurance we have, that ſuc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:36940:13"/>a Bleſſedneſs, as I have in ſome meaſure re<g ref="char:EOLhyphen"/>preſented to you, ſhall be the Portion of thoſe <hi>that Dye in the Lord.</hi>
+            </p>
+            <p>
+               <hi>Bleſſed</hi> then <hi>are the 'Dead that dye in the Lord, Yea ſaith the Spirit.</hi>
+            </p>
+            <p>Touching the former part whereof, <hi>(viz.)</hi> the Declaration; The Voice that St. <hi>John</hi> heard from Heaven ſpake it unto him, Say<g ref="char:EOLhyphen"/>ing, <hi>Bleſſed are the Dead that dye in the Lord;</hi> which words he affirms he heard in a clear and articulate Sound, and therefore could not miſtake it for any other than what it really was; as One we know to have been that came before to our <hi>Bleſſed Saviour,</hi>
+               <note place="margin">Joh. 12.29.</note> which <hi>ſome that ſtood by thought was thun<g ref="char:EOLhyphen"/>der, and others the ſpeech of an Angel.</hi> And leſt this Voice ſhould be capable of any miſ<g ref="char:EOLhyphen"/>conſtruction as to its Author, and thereby the Authority of Him who utter'd it be any way queſtion'd; It confirms to the World the Truth of what had been ſaid with a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Yea,</hi> (or of a Truth) <hi>ſaith the Spirit.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The Spirit</hi> emi<g ref="char:EOLhyphen"/>nently above All; in himſelf an Author eſſentially Infallible; as being THE SPIRIT whoſe Knowledge extendeth to the true Na<g ref="char:EOLhyphen"/>ture of all things, and therefore not capable of being deceived Himſelf about the Matter;
+<pb n="18" facs="tcp:36940:14"/>and whoſe Juſtice and Holineſs is not inferi<g ref="char:EOLhyphen"/>our unto, but equally Infinite with His Knowledg, and his Wiſdom; and therefore not capable of affirming what he knows to be falſe, and thereby of deceiving any o<g ref="char:EOLhyphen"/>ther. As being THE SPIRIT who by His Omnipotent Power <hi>call'd</hi> the whole World into its Being out of Nothing, and therefore of Ability to diſpoſe of thoſe Manſions he himſelf has made. And laſtly, as being THE SPIRIT whoſe Goodneſs is equal to, nay, if his Divine Attributes would admit degrees, I ſhould ſay greater than Omnipotence it ſelf; ſince the firſt Characters of his Glori<g ref="char:EOLhyphen"/>ous Name are <hi>The Lord God,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 34.6, 7.</note> 
+               <hi>merciful and gracious, keeping Mercy for Thouſands;</hi> and therefore as he delights to manifeſt himſelf, by nothing ſo much as Acts of Beneficence; ſo will he more eſpecially make himſelf known, by fulfilling his Declarations and Promiſes, in receiving thoſe <hi>that Dye in him</hi> into a Reſt from their Labours, and an ever<g ref="char:EOLhyphen"/>laſting Reward of their good Works. And now if in Matters of far leſs Evidence, a meer <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>So ſaith the Philoſopher,</hi> was thought a ſufficient ground for Heathen's Sa<g ref="char:EOLhyphen"/>tisfaction; certainly in Matters of ſo great moment, and ſuch agreeableneſs to our Na<g ref="char:EOLhyphen"/>tures,
+<pb n="19" facs="tcp:36940:14"/>a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>So ſaith the Spirit,</hi> ought to be a ſufficient foundation for a Chriſtian's Faith.</p>
+            <p>Wherefore inſtead of ſuſpending our Be<g ref="char:EOLhyphen"/>lief, or doubting of God's <hi>Veracity,</hi> let us call to Mind the great Advantages <hi>We</hi> re<g ref="char:EOLhyphen"/>ceive by thoſe Declarations, Confirmations, and Promiſes HE hath given unto us to ſtrengthen our Hopes, to comfort us in Af<g ref="char:EOLhyphen"/>fliction, and to encourage us in the Perfor<g ref="char:EOLhyphen"/>mance of good Works: and then, ſo much matter of Praiſe and Admiration will offer it ſelf unto us, that we ſhall think we can never ſufficiently bleſs and adore his <hi>Goodneſs</hi> towards us; for ſhould <hi>he</hi> have left us to our ſelves without ſuch Revelations, tho' we have natural Deſires after Immortality, and Bleſſedneſs implanted us, yet our narrow<g ref="char:EOLhyphen"/>limited Knowledge could never have diſ<g ref="char:EOLhyphen"/>covered unto us the Certainty of Heavenly Joys, to be poſſeſſed by the Righteous, who are ſaid <hi>to Dye in the Lord.</hi> Under our heavieſt Preſſures, or amidſt our greateſt Troubles, we might, and ſhould often have ſaid indeed, <hi>Bleſſed are the dead, for they reſt from their labours:</hi> But even in our high<g ref="char:EOLhyphen"/>eſt Speculations, or our moſt exalted Raptures we could never have known, or ſaid, that
+<pb n="20" facs="tcp:36940:15"/>
+               <hi>Bleſſed are the dead that dye in the Lord, for their works follow them,</hi> that is, according to the Context, follow them in the preſence of GOD, the <hi>Lamb,</hi> and the Holy Angels, and ſo inſtead of a <hi>clear Aſſurance</hi> of a <hi>real Hea<g ref="char:EOLhyphen"/>ven</hi> in Spiritual Joys, we might have been ſtill led on as the Old Heathen World was, with the <hi>blind hopes</hi> of a <hi>feign'd Elyſium</hi> in Shades and Groves. And therefore as long as we enjoy the Powers of Thinking by being Living Men, let us not forget this great and weighty Truth, that the <hi>Voice from Heaven</hi> for our Comfort and Salvation declared and confirmed by the Seal of GOD, that ſo we may not faint in our Travels, whilſt we are labouring to <hi>abound in the work of the Lord,</hi> to obtain that Bleſſedneſs, that is the ſure Reward prepared for thoſe that <hi>dye in Him.</hi>
+            </p>
+            <p>In a brief Application then of all. The Perſons <hi>that dye in the Lord,</hi> are all thoſe that depart this Life, having ſincerely en<g ref="char:EOLhyphen"/>deavoured to the end to keep the Command<g ref="char:EOLhyphen"/>ments of GOD, upon their failure been truly Penitent, and by a lively Faith in CHRIST committed themſelves to his Mercy. And that there are incomprehenſible Degrees of Bleſſedneſs in the Manſions Above, prepared
+<pb n="21" facs="tcp:36940:15"/>for all ſuch Perſons; I believe no well-diſ<g ref="char:EOLhyphen"/>poſed Reaſon of Man can after this remain unconvinced: and if he has any Faith in JESUS, muſt, I am ſure, be fully ſatisfied; ſince that is the <hi>Subſtance</hi> of this Bleſſedneſs <hi>hoped for</hi> in him, and <hi>the evidence</hi> of Joyful <hi>things</hi> to come hereafter, and as yet <hi>not ſeen.</hi>
+            </p>
+            <p>Wherefore having this ſatisfaction by this <hi>Voice from Heaven,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> as alſo by many other Declarations of our Saviour and his Apoſtles (who all confirm'd the Truth of what they taught by frequent and unparallel'd Mi<g ref="char:EOLhyphen"/>racles.) Be the Labours, the Cares, the Croſſes, the Perſecutions and Afflictions of this Life never ſo numerous, or ſo grievous to Fleſh and Blood; let not the ſence of ſuch momentary Afflictions ever ſo far vex, or de<g ref="char:EOLhyphen"/>preſs our Souls, as to make us either murmur at GOD's Providence, or deſpair of his Mercy, or be unmindful of the <hi>Eternal weight of Glory,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 14. ver. 22.</note> whereinto <hi>through much Tribulation</hi> we are foretold, we muſt expect to <hi>enter;</hi> and where, the Angel proclaim'd, <hi>is the patience of the Saints.</hi> Saints, who, tho' once were <hi>ſailing</hi> in theſe troubled <hi>waters,</hi> yet becauſe they made not <hi>Shipwrack</hi> of a good Conſci<g ref="char:EOLhyphen"/>ence, but by Faith bore themſelves up from <hi>ſinking</hi> in the <hi>Waves,</hi> are now <hi>arrived</hi> at
+<pb n="22" facs="tcp:36940:16"/>their ever-quiet <hi>Haven:</hi> whoſe Number, (my Hope, yea Confidence is) the Soul of this our Deceaſed Brother has encreaſed; who in time of his Affliction, yea amidſt his great<g ref="char:EOLhyphen"/>eſt Pains, ſubmitted himſelf to God's Viſi<g ref="char:EOLhyphen"/>tation with a wonderful Calmneſs, and Se<g ref="char:EOLhyphen"/>renity of Spirit; much like unto His, who ſaid, <hi>Not my Will, O Father, but thine be done.</hi> Who, having <hi>purged his Conſcience from dead and ſinful Works, to ſerve the liv<g ref="char:EOLhyphen"/>ing God,</hi> and thereby being filled with the well-grounded hopes of a bleſſed Immortality thro' Jeſus Chriſt; Faced his approaching Hour with that truly Chriſtian Fortitude, that he ſhew'd himſelf as Unconcern'd at the ſence of its uſual Terrours, as the Apoſtle did when he ſang Triumphantly this <hi>Epi<g ref="char:EOLhyphen"/>nichion; O Death where is thy Sting? O Grave where is thy Victory?</hi>
+            </p>
+            <p>But Secondly,<milestone type="tcpmilestone" unit="unspecified" n="II"/> Since Labours and Afflicti<g ref="char:EOLhyphen"/>ons by an unavoidable Neceſſity accompany all living; and ſince inconceivable Pleaſures in an infinitely bleſſed State are the everlaſt<g ref="char:EOLhyphen"/>ing Portion of thoſe <hi>that Dye in the Lord;</hi> Let us always remember the great Advan<g ref="char:EOLhyphen"/>tage they have by their Change, who <hi>dye the Death of the Righteous;</hi> and thence learn not over-much to lament our Loſs by their Departure.</p>
+            <pb n="23" facs="tcp:36940:16"/>
+            <p>GOD, for many wiſe Reaſons, more than the Wiſeſt of us can diſcern, <hi>takes the Righ<g ref="char:EOLhyphen"/>teous to himſelf from the Evil that</hi> is, and <hi>is to come;</hi> and 'tis, or at leaſt it ſhould be our Prayer, that He would be pleas'd <hi>ſhortly to accompliſh the Number of his Elect, and haſten his Kingdome:</hi> and therefore as well in ſubmiſſion to the unſearchable Methods of Divine Providence, as in compliance with other Chriſtian Duties, we ſhould check thoſe Paſſions that are apt to exceed the Bounds allowable to natural Affection, when<g ref="char:EOLhyphen"/>ever they ariſe to an high Degree upon the ſence of our Loſs by the Departure of our Friends. By Death they are freed from the Labours and Miſeries of this World, and if their <hi>laſt End were like his</hi> whoſe Funeral we are now attending, they are Rejoycing in the Eaſe and Pleaſures of the Other; and therefore tho' Lamentation and Mourning may plead very ſtrongly for themſelves up<g ref="char:EOLhyphen"/>on this Occaſion; when GOD has Deprived a moſt tenderly Affectionate <hi>Wife</hi> of an <hi>Huſ<g ref="char:EOLhyphen"/>band,</hi> who never in any thing Contended with her, unleſs it were to exceed her in Kindneſs: When he has been pleaſed to take from a Family, a Father rather than a Bro<g ref="char:EOLhyphen"/>ther; from the Neighbourhood, a Compoſer
+<pb n="24" facs="tcp:36940:17"/>of their Differences, and a Guardian of their Rights; from the Poor, a Reliever of their Neceſſities; and from all his Acquaintance, from the higheſt to the loweſt, an Affable, Courteous and True-hearted Friend; One, who was always an Enemy to PAGEANTRY,<note place="margin">☞</note> HYPOCRISY, and PRIDE; and, tho' abound<g ref="char:EOLhyphen"/>ing with this World's Good, could never by any One be charged (as the Prince of <hi>Tyre</hi> is by the Prophet) that his <hi>Heart was lifted up becauſe of his Riches:</hi>
+               <note place="margin">
+                  <hi>Eze.</hi> 28. ver. 5.</note> Tho', I ſay, the ſence of theſe Loſſes by ſo Worthy a Gentle<g ref="char:EOLhyphen"/>man's Death (which I ſhould more largely inſiſt upon, were it not my Deſign to allay your Sorrows) may very ſtrongly incline us over-much to Lament and Grieve; yet when in one Minute we look upon our ſelves, and his juſt Character, and Sigh upon the ſence of our Loſs; let us, in the Next, conſider his happy State, and Comfort our ſelves upon the Thoughts of his infinite Gain: for ſhould his Spirit return to us, he Himſelf would Adviſe us <hi>not to Weep for him, but t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Weep for our ſelves,</hi> who now are in the midſt of our <hi>labours</hi> whilſt he <hi>reſts</hi> from them, who now are <hi>working,</hi> whilſt he is <hi>re<g ref="char:EOLhyphen"/>warded.</hi>
+            </p>
+            <pb n="25" facs="tcp:36940:17"/>
+            <p>Thirdly, and laſtly,<milestone type="tcpmilestone" unit="unspecified" n="III"/> Since all thoſe that <hi>dye in the Lord</hi> are Bleſt with Eternal Joys, that none can comprehend, but that GREAT GOD that gives them; and thoſe Happy Souls, that by His Favour do now poſſeſs them: notwithſtanding the wonderful and unſpeakable Greatneſs of them, and their Eternity; Shall we ever be ſo ſeduc'd as by Apoſtacy from our Faith in CHRIST, and Obedience to His Precepts, to forfeit our Title to them, either for the hope of Tem<g ref="char:EOLhyphen"/>poral Profits, and Honours? or the ſake of ſenſual Pleaſures? or the Fear of worldly Afflictions? Alas! all Temporal Advan<g ref="char:EOLhyphen"/>tages, even the greateſt of all earthly Feli<g ref="char:EOLhyphen"/>cities, had they a Sufficiency in themſelves to ſatisfy our Deſires; and could we be ſe<g ref="char:EOLhyphen"/>cure of their Duration, or Continuance with us; yet at beſt, can attend us no farther than this preſent Life, which is as <hi>a vapour,</hi> and <hi>a Shadow,</hi> and paſſeth away like <hi>a tale that is told.</hi> When we pleaſe our ſelves moſt in the Thoughts of enjoying them; GOD many times is pleas'd to interpoſe Him<g ref="char:EOLhyphen"/>ſelf, and cut us off: And <hi>to ſay to our Souls,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 12.19.</note> 
+               <hi>take your eaſe, eat, drink, and be merry,</hi> be<g ref="char:EOLhyphen"/>cauſe, as we think, <hi>there is much goods laid up for many years;</hi> is ſo ſandy a foundation to
+<pb n="26" facs="tcp:36940:18"/>build upon, that our <hi>Lord</hi> hath faid, THOU FOOL,<note place="margin">Ver. 20.</note> to him that doth it; <hi>For this night our Souls may be required of us.</hi> Let us therefore,<note place="margin">
+                  <hi>Phil.</hi> 3.14.</note> 
+               <hi>preſs towards the mark for the price of the high calling of God in Chriſt Je<g ref="char:EOLhyphen"/>ſus,</hi> and <hi>ſet our affections on things above, and not on things on the earth;</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.2.</note> always remem<g ref="char:EOLhyphen"/>bring the <hi>Wiſe-man</hi>'s Words,<note place="margin">
+                  <hi>Prov.</hi> 11.4.</note> that <hi>Riches profit not in the day of wrath, but Righte<g ref="char:EOLhyphen"/>ousneſs delivereth from death.</hi> And what<g ref="char:EOLhyphen"/>ever fair Offers, or Enticing promiſes of this World's Treaſures be made, or given unto us, upon our compliance with ſinful terms; As <hi>Moſes refus'd to be call'd the ſon of Pharaoh's Daughter,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.24.</note> becauſe <hi>he had a reſpect unto the recompence of reward;</hi> ſo let us contemn the like Propoſals, for the ſame reaſon, <hi>chooſing rather</hi> (as he did) <hi>to ſuffer affliction with the people of God,</hi>
+               <note place="margin">Ver. 25.</note> 
+               <hi>than to enjoy the pleaſures of ſin for a ſeaſon.</hi>
+            </p>
+            <p>And indeed, as <hi>the pleaſures of ſin are</hi> but <hi>for a ſeaſon,</hi> or of a ſhort continuance; ſo are they baſe in themſelves, and end in bit<g ref="char:EOLhyphen"/>terneſs. Be they in appearance never ſo ſpe<g ref="char:EOLhyphen"/>cious, yet, (in the <hi>Wiſe-man</hi>'s Language) <hi>they bite like a ſerpent,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 23.32.</note> 
+               <hi>and ſling like an adder; they lead down to the Chambers of Death, and their way is the way to Hell.</hi>
+               <note place="margin">Ch. 7.27.</note> Wherefore
+<pb n="27" facs="tcp:36940:18"/>let us conſider the dignity of our Nature, and the Excellency of our Religion, and let not brutiſh Sence lead Us ſo baſely captive; to whom GOD has given <hi>Reaſon</hi> to be our <hi>Guide,</hi> and of whom He now requires <hi>Faith,</hi> as our <hi>Support</hi> againſt Temptations, and our <hi>Glory</hi> in our Conqueſt of them: And that it may not, let us (following theſe Exhorta<g ref="char:EOLhyphen"/>tions) mortify <hi>our members that are upon earth,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.5.</note> and (as the <hi>Apoſtle</hi> himſelf infers) <hi>ha<g ref="char:EOLhyphen"/>ving theſe promiſes,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 7.1.</note> 
+               <hi>let us cleanſe our ſelves from all filthineſs of Fleſh and Spirit, perfect<g ref="char:EOLhyphen"/>ing Holineſs in the fear of God.</hi> For as all our future, and everlaſting Happineſs pro<g ref="char:EOLhyphen"/>ceedeth from the Viſion of Him, ſo are we certain that without Holineſs, no Man ſhall ever ſee Him.</p>
+            <p>And as thus we ſhould be upon our guard, leſt either the Hopes of this World's profits, and honours, or the enticements of its plea<g ref="char:EOLhyphen"/>ſures ſhould ſo far prevail, as to ſeduce us out of thoſe paths that lead to Bleſſedneſs; ſo ſhould we alſo, leſt the fears of affliction ſhould drive us from them. Wherefore rather than do <hi>any</hi> ill <hi>Action,</hi> let us ſuffer <hi>every</hi> ill <hi>thing,</hi> The Powers, and the Rage of this World can lay upon us; reckoning, with the <hi>Apoſtle,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 8.18.</note> 
+               <hi>That the ſufferings of this preſent life are not
+<pb n="28" facs="tcp:36940:19"/>worthy to be compar'd with the glory that ſhall be revealed in us.</hi> So ſhall we be prepar'd for all conditions of Life, and every thing that can beſet us; and thereby approve our ſelves as true Sons of our CHURCH as this our De<g ref="char:EOLhyphen"/>ceaſed <hi>Brother</hi> was; Whoſe <hi>Faith in</hi> JESUS, and Whoſe ſtedfaſtneſs to our <hi>Religion</hi> I need not tell many Perſons here to have been truly ſuch, as the changes of the World could ne<g ref="char:EOLhyphen"/>ver alter.</p>
+            <p>In the cloſe of all; <hi>Hold fast</hi> (as He did) <hi>the profeſſion of your faith without wavering,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 10.23.</note> 
+               <hi>for he is faithful that has promiſed; and be ye ſtedfaſt,</hi>
+               <note place="margin">1 Cor. 15.58.</note> 
+               <hi>unmoveable, always abounding in the work of the Lord, foraſmuch as you know that your labour will not be in vain in the Lord.</hi> For ſince He, who 'tis impoſſible ſhould act any thing in vain, or be diſappointed of His Ends, did condeſcend to a moſt painful, and ſhameful Death, that all ſuch as <hi>dye in the Lord,</hi> might be advanc'd to an Everlaſting Life of Pleaſure and Glory, Certainly <hi>when he had overcome the ſharpneſs of that Death, He opened the Kingdom of Heaven to all Be<g ref="char:EOLhyphen"/>lievers.</hi> And Now,</p>
+            <p>
+               <hi>To God the Father, God the Son, and God the Holy Ghoſt, Three Perſons and One God, be aſ<g ref="char:EOLhyphen"/>cribed all Dominion, Power, and Glory, both now, and for ever.</hi> Amen.</p>
+            <pb facs="tcp:36940:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
